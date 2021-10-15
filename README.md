@@ -1,0 +1,2 @@
+# BMEarthSDK
+sdk for iOS
