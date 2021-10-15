@@ -1,0 +1,6 @@
+framework module BMEarth {
+  umbrella header "BMEarth.h"
+
+  export *
+  module * { export * }
+}

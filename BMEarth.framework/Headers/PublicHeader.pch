@@ -1,0 +1,17 @@
+//
+//  PublicHeader.pch
+//  BMEarth
+//
+//  Created by 赵洪 on 2019/1/14.
+//  Copyright © 2019 赵洪. All rights reserved.
+//
+
+#ifndef PublicHeader_pch
+#define PublicHeader_pch
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import "BMEarthPublicDefine.h"
+#import <UIKit/UIKit.h>
+#import <CoreGraphics/CoreGraphics.h>
+#endif
+#endif /* PublicHeader_pch */
